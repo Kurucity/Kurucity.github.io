@@ -1,2 +1,2 @@
-# Kurucity.github.io
+# kurucity.github.io
 For all your IT needs
