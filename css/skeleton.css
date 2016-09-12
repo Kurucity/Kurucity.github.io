@@ -263,12 +263,12 @@ a img {
 
 @keyframes where {
   from {
-    left: -384px;
+    right: -384px;
     top: -384px;
     opacity: 0.0;
   }
   to {
-    left: 0px;
+    right: 0px;
     top: 0px;
     opacity: 1.0;
   }
@@ -282,12 +282,12 @@ a img {
 
 @-webkit-keyframes ja {
   from {
-    left: -384px;
+    right: -384px;
     top: 384px;
     opacity: 0.0;
   }
   to {
-    left: 0px;
+    right: 0px;
     top: 0px;
     opacity: 1.0;
   }
@@ -295,12 +295,12 @@ a img {
 
 @keyframes ja {
   from {
-    left: -384px;
+    right: -384px;
     top: 384px;
     opacity: 0.0;
   }
   to {
-    left: 0px;
+    right: 0px;
     top: 0px;
     opacity: 1.0;
   }
@@ -314,22 +314,22 @@ a img {
 
 @-webkit-keyframes gothrough {
   from {
-    left: -384px;
+    right: -384px;
     opacity: 0.0;
   }
   to {
-    left: 0px;
+    right: 0px;
     opacity: 1.0;
   }
 }
 
 @keyframes gothrough {
   from {
-    left: -384px;
+    right: -384px;
     opacity: 0.0;
   }
   to {
-    left: 0px;
+    right: 0px;
     opacity: 1.0;
   }
 }
