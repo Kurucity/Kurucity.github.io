@@ -1,0 +1,31 @@
+COLORS
+
+* Response by Isoli
+#D3D5CF
+HEX
+211,213,207
+RGB
+
+* Sonets by Isoli
+#B6C6AD
+HEX
+182,198,173
+RGB
+
+* Intro by Isoli
+#94C5A7
+HEX
+148,197,167
+RGB
+
+* Harsh by Isoli
+#0CF4AD
+HEX
+12,244,173
+RGB
+
+* IOHAC V by Isoli
+#164F57
+HEX
+22,79,87
+RGB
