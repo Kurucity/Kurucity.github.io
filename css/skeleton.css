@@ -345,6 +345,7 @@ a img {
   position: relative;
   transform: rotate(90deg);
   /*color: #94C5A7;*/
+  font-weight: bold;
 }
 
 #blink {
