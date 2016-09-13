@@ -203,6 +203,11 @@ body {
   background: linear-gradient(to bottom right, rgb(12, 244, 173), rgb(255, 255, 255), rgb(255, 255, 255)) fixed;
 }
 
+.small_menu {
+  font-size: 0.7em;
+  text-align: right;
+}
+
 .bold {
   font-weight: bold;
 }
