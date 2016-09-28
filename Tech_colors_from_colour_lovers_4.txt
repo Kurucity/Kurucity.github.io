@@ -1,4 +1,4 @@
-COLORS
+COLORS.
 
 * Response by Isoli
 #D3D5CF
